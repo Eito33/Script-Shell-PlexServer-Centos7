@@ -44,10 +44,12 @@ $ cd /opt/plexmedia
 $ mkdir music
 ```
 
-8. Go to http://localhost:8888/web
-9. Enjoy
-
-
+8. Go to http://localhost:8888/web and configure your library
+9. Go to http://yourIP:32400/web/index.html and enjoy !
 
 
 # Thanks !
+
+
+
+
